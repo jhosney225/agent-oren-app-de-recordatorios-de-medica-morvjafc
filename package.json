@@ -1,0 +1,6 @@
+{
+  "name": "agent-oren-app-de-recordatorios-de-medica-morvjafc",
+  "version": "1.0.0",
+  "description": "Proyecto de Oren [Gen23]: app de recordatorios de medicamentos con alertas",
+  "main": "index.js"
+}
